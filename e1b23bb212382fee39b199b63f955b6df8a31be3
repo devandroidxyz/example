@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1d83e38_d2c50786",
+        "filename": "src/index.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1018397
+      },
+      "writtenOn": "2021-07-03T07:47:46Z",
+      "side": 1,
+      "message": "please comment!",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 4
+      },
+      "revId": "e1b23bb212382fee39b199b63f955b6df8a31be3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
